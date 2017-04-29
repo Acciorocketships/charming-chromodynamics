@@ -1,0 +1,44 @@
+Number of Humans: 1
+Number of AIs: 2
+
+Player 1 Name:			Bidge Wump
+Player 1 Color:			Blue
+Player 1 Up Key: 		up arrow
+Player 1 Down Key: 		down arrow
+Player 1 Left Key: 		left arrow
+Player 1 Right Key:		right arrow
+Player 1 Aim Left Key: 	comma
+Player 1 Aim Right Key: period
+Player 1 Shoot Key: 	slash
+
+
+Player 2 Name:			Bognobbler
+Player 2 Color:			Cyan
+Player 2 Up Key: 		w
+Player 2 Down Key: 		s
+Player 2 Left Key: 		a
+Player 2 Right Key:		d
+Player 2 Aim Left Key: 	control
+Player 2 Aim Right Key: option
+Player 2 Shoot Key: 	cmd
+
+
+Player 3 Name:			Fedge Gondola
+Player 3 Color:			Yellow
+Player 3 Up Key: 		y
+Player 3 Down Key: 		h
+Player 3 Left Key: 		g
+Player 3 Right Key:		j
+Player 3 Aim Left Key: 	v
+Player 3 Aim Right Key: b
+Player 3 Shoot Key: 	n
+
+
+Bot 1 Name:				Charm
+Bot 1 Color:			Pink
+
+Bot 2 Name:				Strange
+Bot 2 Color:			Grey
+
+Bot 3 Name:				Anti Top
+Bot 3 Color:			Red
