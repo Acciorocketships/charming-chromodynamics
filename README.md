@@ -1,3 +1,7 @@
+# Charming Chromodynamics
+
+![Gameplay](https://github.com/Acciorocketships/Charming-Chromodynamics/blob/master/img.png)
+
 ## About
 
 Charming Chromodynamics is a Java game made entirely with the shape drawing functions within Java. It is similar to the old 2d tanks game, except it is real-time, the ground moves, and it is based on mass instead of health. Each player or AI controls a circle, which can jump and move along a dynamic rolling terrain. The goal of the game is to knock enemies off of the stage. This can be achieved by ejecting a small amount of mass towards the other players, which explodes on impact, sending them flying. However, be careful--the more mass you eject, the smaller you become, and the easier it is to be knocked of the stage. Over time, each player slowly recovers mass. The scoring of the game is as follows: 1) if a player lands a direct hit on another player, they get 1 point. 2) if a player knocks another player off the stage (not necessarily from a direct hit), they get 3 points (and the other player respawns), 3) if a player is knocked off the stage, they lose 3 points.
